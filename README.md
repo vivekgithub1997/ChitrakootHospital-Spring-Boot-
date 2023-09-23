@@ -38,5 +38,5 @@ This project is use technology Spring-boot,hibernate,devtools,MYSQL(5.0),GUI for
 ![Screenshot 2023-08-27 142439](https://github.com/vivekgithub1997/ChitrakootHospital-Spring-Boot-/assets/61921329/1c3bfcc1-bc44-43f2-90f9-5d3cdfbcb10d)
 # Appointment Done But Status Is Pending 
 ![Screenshot 2023-08-27 142626](https://github.com/vivekgithub1997/ChitrakootHospital-Spring-Boot-/assets/61921329/f81fe1ed-4129-49fe-ae8b-633ea5be432b)
-# Appoitment Accepted Or Rejected
+# Appointment Accepted Or Rejected
 ![Screenshot 2023-08-27 142638](https://github.com/vivekgithub1997/ChitrakootHospital-Spring-Boot-/assets/61921329/a9e1c222-9521-4748-9d08-843ac50188a7)
